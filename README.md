@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felipe-monsalves-sena/">LinkedIn</a> ·
-  <a href="mailto:fm.monsalves@gmail.com">Email</a> ·
   <a href="https://www.hackerrank.com/fmsena">HackerRank</a>
 </p>
 
